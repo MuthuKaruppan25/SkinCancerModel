@@ -1,0 +1,2 @@
+0 diseases
+1 normal
